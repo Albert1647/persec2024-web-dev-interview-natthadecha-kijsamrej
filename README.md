@@ -20,3 +20,5 @@ to run .js file use
 node <filename>
 ```
 
+to see result of SQL command, use this website: https://www.sql-practice.com/
+
